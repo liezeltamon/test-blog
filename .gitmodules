@@ -2,3 +2,6 @@
 	path = test-blog/public
 	url = git@github.com:liezeltamon/test-blog.github.io.git
 	branch = main
+[submodule "test-blog/themes/hugo-PaperMod"]
+	path = test-blog/themes/hugo-PaperMod
+	url = git@github.com:adityatelange/hugo-PaperMod.git
