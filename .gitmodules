@@ -1,0 +1,4 @@
+[submodule "test-blog/public"]
+	path = test-blog/public
+	url = git@github.com:liezeltamon/test-blog.github.io.git
+	branch = main
