@@ -5,3 +5,9 @@
 [submodule "test-blog/themes/hugo-PaperMod"]
 	path = test-blog/themes/hugo-PaperMod
 	url = git@github.com:adityatelange/hugo-PaperMod.git
+[submodule "test-blog/hugo-theme-stack"]
+	path = test-blog/hugo-theme-stack
+	url = git@github.com:CaiJimmy/hugo-theme-stack.git
+[submodule "test-blog/themes/hugo-theme-stack"]
+	path = test-blog/themes/hugo-theme-stack
+	url = git@github.com:CaiJimmy/hugo-theme-stack.git
