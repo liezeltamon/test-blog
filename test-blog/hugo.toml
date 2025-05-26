@@ -1,0 +1,4 @@
+baseURL = 'https://liezeltamon.github.io/test-blog.github.io/'
+languageCode = 'en-us'
+title = 'Test blog'
+theme = 'hugo-theme-stack'
